@@ -1,4 +1,4 @@
-# ☕ CoffeeShop — Cardápio e pedidos
+# ☕ CoffeeShop
 
 Projeto desenvolvido como **trabalho de entrega final** 🎓 do curso de **especialização em front-end**. A ideia é simular a presença digital de uma cafeteria que oferece **cafés especiais**, com foco em experiência do usuário, organização do conteúdo e, nas próximas etapas, interatividade mais rica com **JavaScript** ⚡ e **React** ⚛️.
 
@@ -14,7 +14,7 @@ Trata-se de um site para a marca fictícia **CoffeeShop**, onde o visitante pode
 
 No projeto CoffeeShop, o wireframe abaixo representa o plano da **página do menu/cardápio**: barra superior com links **MENU**, **ABOUT** e **ORDER**, logo central, área de produto com imagem, **tabela de preços** ao lado, bloco de **descrição** e rodapé **Contacts** (telefone, e-mail, Instagram), em paleta marrom/cream alinhada ao tema cafeteria.
 
-![Wireframe de média fidelidade — página do cardápio CoffeeShop](wireframes/menu-mid-20fidelity.png)
+![Wireframe de média fidelidade — página do cardápio CoffeeShop](wireframes/menu-mid-fidelity.png)
 
 O objetivo acadêmico é demonstrar competências em **HTML**, **CSS**, estrutura de páginas, acessibilidade básica ♿, layout responsivo 📱 e, em breve, **componentização e estado** com React, além de lógica de interface com JavaScript.
 
